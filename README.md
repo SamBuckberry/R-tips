@@ -1,6 +1,8 @@
 # R-tips
 ## A place to store links and tips for R programming
 
+### The top 50 ggplot master list. 
+http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#Google%20Road%20Map
 
 ### Tables in R
 
